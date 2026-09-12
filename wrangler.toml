@@ -24,7 +24,7 @@ run_worker_first = ["/api/*", "/mcp", "/__scheduled"]
 [[d1_databases]]
 binding = "DB"
 database_name = "edgeever"
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "ba42eb84-7b21-4afd-8c5a-edd4bdf058aa"
 migrations_dir = "migrations"
 
 [[r2_buckets]]
